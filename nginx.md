@@ -1,0 +1,1 @@
+-Add feature in the resource files to allow syslogs to log both locally and remotely. Can only currently do locally at the moment
