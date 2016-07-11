@@ -1,0 +1,1 @@
+- Fix issue "Updating leapseconds file should be possible without updating cookbook" by following the suggested solution in comments
