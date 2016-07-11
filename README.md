@@ -1,6 +1,6 @@
 # Cookbook Assessments
 
-As part of Lab 4 in the Chef Conf 2016 Crafting Reusable Cookbooks, we will be assessing cookbooks.
+As part of Lab 6 in the Chef Conf 2016 Crafting Reusable Cookbooks, we will be assessing cookbooks.
 
 The assessment should include information that answers the following:
 
