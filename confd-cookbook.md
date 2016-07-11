@@ -12,3 +12,11 @@ No. Only confd_template is described. There are 3 more no described. None of the
 
 ###Is there exampel usage?
 Only for confd_template resource
+
+###Is there testing?
+Yes, there are testing files
+
+
+###Is the project under active development?
+Yes, there are 30 commints, the latest was in 
+Jan 14, 2016
